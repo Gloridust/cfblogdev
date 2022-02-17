@@ -1,8 +1,5 @@
-# Rene.wang
-
-这是我的的[博客](https://rene.wang)的源代码。
-
-灵感来源于这篇 [文章](https://dev.to/tinacms/creating-a-markdown-blog-with-next-js-52hk)
+# cflsgx.top
+源自@rene.wang，为学校开发使用。
 
 ## 配置
 
@@ -16,20 +13,9 @@
     -   intro:介绍
 -   catagories: 目录配置
 
-### 静态资源
-
-### 样式
-
-暂不支持自定义样式
-
 ## 写作
 
 将文章放入`/posts`目录即可. NBlog 支持 markdown 和 HTML.
-
-### 文章元数据 frontmatter
-
--   title: articel's title, if null, NBlog will regard the file name as title
--   date: Due to node cannot read the file's meta date, **you need to add a date by yourself**.
 
 ## 部署
 
