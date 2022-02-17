@@ -1,10 +1,10 @@
 module.exports = {
-	title: "CFLSGX团学会",
-	root: "https://dev.cflsgx.top",
-	description: "成都外国语学校高新校区团学会官网。",
-	keywords: ["成外高新团学会","成高团学会","成都外国语学校高新校区","成外高新","成都外国语"],
+	title: "江村暮的博客",
+	root: "https://blog.yungeeker.com",
+	description: "开发日志、技术文章以及生活随感。",
+	keywords: ["江村暮的博客", "RiverTwilight", "过气码农"],
 	author: {
-		name: "成外高新团学会",
+		name: "江村暮",
 		image: "/public/image/author.jpg",
 		twitter: "https://twitter.com/rea1DonandTrump",
 		github: "https://github.com/RiverTwilight",
@@ -12,7 +12,7 @@ module.exports = {
 			{
 				title: "关于作者",
 				content:
-					"本站由成外高新团学会开发与运营。",
+					"2022届高考生，坐标蓉城。喜欢写代码、骑车、画画，唱歌。",
 			},
 		],
 	},
