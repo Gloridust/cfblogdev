@@ -15,7 +15,7 @@
 		"intro": [
 			{
 				"title": "关于我们",
-				"content": "本站由成外高新团学会开发与运营。"
+				"content": "本站由成外高新团学会开发与运营。成都外国语学校高新校区团学会是学校党委领导和团委指导下的主要学生组织，是学生与学校沟通、联系的桥梁和纽带。"
 			}
 		]
 	},
@@ -26,11 +26,11 @@
 		},
 		"Life": {
 			"en-US": "Life",
-			"zh-CN": "生活"
+			"zh-CN": "生活&活动"
 		},
-		"FrontEnd": {
-			"en-US": "Front End",
-			"zh-CN": "前端"
+		"Ceremony": {
+			"en-US": "Ceremony",
+			"zh-CN": "升旗仪式"
 		},
 		"Feeling": {
 			"en-US": "Feeling",
