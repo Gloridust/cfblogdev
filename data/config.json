@@ -32,13 +32,13 @@
 			"en-US": "Ceremony",
 			"zh-CN": "升旗仪式"
 		},
-		"Feeling": {
-			"en-US": "Feeling",
-			"zh-CN": "随感"
+		"Notice": {
+			"en-US": "Notice",
+			"zh-CN": "公告板"
 		},
-		"SoftWare": {
-			"en-US": "SofeWare",
-			"zh-CN": "软件开发"
+		"Other": {
+			"en-US": "Other",
+			"zh-CN": "其它"
 		}
 	},
 	"gitalk": {
