@@ -75,24 +75,24 @@ const Contact = ({
 
 // TODO 单独的搜索页面
 const MainHeader = ({ siteConfig, lang }) => (
-	<div className="app-header-inner Dis(flex)">
-		<a
-			href="/"
-			className="app-header-item logo-large Cur(pointer) hidden-sm-down"
-		>
-			<LogoLarge />
-		</a>
-		<a href="/" className="app-header-item logo-small hidden-md-up">
-			<Logo />
-		</a>
-		<Menu lang={lang} />
-		<div className="app-header-space"></div>
-		<Contact
-			twitter={siteConfig.author.twitter}
-			github={siteConfig.author.github}
-		/>
-		{/* <Search locale={lang} allPosts={allPosts} /> */}
-	</div>
+	//<div className="app-header-inner Dis(flex)">
+	//	 <a
+	//		href="/"
+	//		className="app-header-item logo-large Cur(pointer) hidden-sm-down"
+	//	>
+	//		<LogoLarge />
+	//	</a>
+	//	<a href="/" className="app-header-item logo-small hidden-md-up">
+	//		<Logo />
+	//	</a> 
+	//	<Menu lang={lang} />
+	//	<div className="app-header-space"></div>
+	//	<Contact
+	//		twitter={siteConfig.author.twitter}
+	//		github={siteConfig.author.github}
+	//	/>
+	//	{/* <Search locale={lang} allPosts={allPosts} /> */}
+	//</div>
 );
 
 class Header extends React.Component<
