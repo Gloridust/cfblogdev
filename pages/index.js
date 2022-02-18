@@ -64,7 +64,7 @@ class HomePage extends React.Component {
 					<Image
 						unsized
 						alt="My favorite charactor"
-						src="/static/image/main.jpg"
+						src="/static/image/main.png"
 					/>
 				</div>
 				<Tab
