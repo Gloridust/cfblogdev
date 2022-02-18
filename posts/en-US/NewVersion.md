@@ -2,7 +2,7 @@
 title: nweverssion
 date: 2022/2/17
 categories:
-    - FrontEnd
+    - Notice
 ---
 
 ## 新版本官网测试  
