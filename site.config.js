@@ -2,7 +2,7 @@ module.exports = {
 	title: "CFLSGX团学会",
 	root: "https://dev.cflsgx.top",
 	description: "成都外国语学校高新校区团学会官网。",
-	keywords: ["成外高新团学会","成高团学会","成都外国语学校高新校区","成外高新","成都外国语"],
+	keywords: ["成外高新团学会","成高团学会","成都外国语学校高新校区","成外高新"],
 	author: {
 		name: "成外高新团学会",
 		image: "/public/image/author.jpg",
