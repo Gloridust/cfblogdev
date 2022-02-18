@@ -8,14 +8,14 @@
 		"small": "/static/image/logo-small.png"
 	},
 	"author": {
-		"name": "江村暮",
-		"image": "/static/image/author.jpg",
-		"twitter": "https://twitter.com/rea1DonandTrump",
-		"github": "https://github.com/RiverTwilight",
+		"name": "成外高新团学会",
+		"image": "/static/image/author.png",
+		"twitter": "http://wpa.qq.com/msgrd?v=3&uin=2155328029&site=qq&menu=yes",
+		"github": "https://github.com/Gloridust/cfblogdev",
 		"intro": [
 			{
-				"title": "关于作者",
-				"content": "2022届高考生，坐标蓉城。喜欢写代码、骑车、画画，唱歌。"
+				"title": "关于我们",
+				"content": "本站由成外高新团学会开发与运营。"
 			}
 		]
 	},
